@@ -27,4 +27,4 @@
 </div>
 
 ## 
-Amo produzir websites, pois só assim me sinto criativo e bom em algo!
+Amo produzir websites, pois assim me sinto criativo e bom em algo!
