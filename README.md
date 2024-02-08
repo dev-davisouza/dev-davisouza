@@ -1,16 +1,30 @@
-### Hi there 👋
+## Olá, eu sou o Davi Souza! 
 
-<!--
-**dev-davisouza/dev-davisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conheça-me (meet-me):
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-souza-de-oliveira-a03019236/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davisouza.ol)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Davi Souza GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-davisouza&show_icons=true&theme=dracula)](https://github.com/dev-davisouza/github-readme-stats#gh-dark-mode-only)
+
+## 
+### Tecnologias:
+#### • <i>Front-end:</i> 
+<div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Boostrap">
+</div>
+
+## 
+#### • <i>Back-end:</i> 
+<div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite">
+</div>
+
+## 
+Amo produzir websites, pois só assim me sinto criativo e bom em algo!
