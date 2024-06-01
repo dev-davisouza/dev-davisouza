@@ -5,8 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-souza-de-oliveira-a03019236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davisouza.ol)
 
+<div>
+    <img width=100% src="[![Davi Souza GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-davisouza&show_icons=true&theme=dracula)](https://github.com/dev-davisouza/github-readme-stats#gh-dark-mode-only) " />
+</div>
 
-[![Davi Souza GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-davisouza&show_icons=true&theme=dracula)](https://github.com/dev-davisouza/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-davisouza&hide_progress=false&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-davisouza&hide_progress=false&theme=dracula)
 
 
 
