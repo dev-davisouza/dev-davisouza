@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davisouza.ol)
 
 <div>
-    <img height=239px src="https://github-readme-stats.vercel.app/api?username=dev-davisouza&show_icons=true&theme=dracula" />
-    <img height=239px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-davisouza&layout=compact&langs_count=16&theme=dracula"/>
+    <img height=200px src="https://github-readme-stats.vercel.app/api?username=dev-davisouza&show_icons=true&theme=dracula" />
+    <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-davisouza&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
