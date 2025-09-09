@@ -96,5 +96,5 @@ Amo produzir websites, pois assim me sinto criativo e bom em algo!
 
 ---
 📌 Quer conhecer mais sobre minha trajetória profissional?  
-👉 [Acesse meu currículo completo aqui](./Curriculo.md)
+👉 [Acesse meu currículo completo aqui](./Curriculum.md)
 
